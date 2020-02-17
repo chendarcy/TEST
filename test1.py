@@ -7,3 +7,5 @@
 # 开发工具：PyCharm
 
 print('hello world!')
+print('xiugai')
+print('hh')
